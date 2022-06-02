@@ -11,7 +11,7 @@ print(values)
 values[2] = "Dilip"         # to update values in list
 print(values)
 del values[0]
-print(values)               #to delete element fro the list
+print(values)               #to delete element from the list
 
 # Same as list data type but immutable
 val = (1, 2, "Dilip", 4, 5.4)      # definding tuple
